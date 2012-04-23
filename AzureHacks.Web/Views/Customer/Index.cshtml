@@ -1,0 +1,24 @@
+﻿@model IEnumerable<AzureHacks.Domain.Models.Customer>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<div id="CustomerList">
+@Html.Partial("_List", Model)
+</div>
+
+ <script type="text/javascript">
+     $(function () {
+         setInterval(function () {
+             $.get('@Url.Action("Index")', {}, function (view) {
+                 $("#CustomerList").html(view);
+             })
+         },5000);
+     });
+  </script>   

@@ -1,0 +1,12 @@
+D:\shiju\CloudDemo\AzureStorage\bin\Debug\AzureStorage.dll
+D:\shiju\CloudDemo\AzureStorage\bin\Debug\AzureStorage.pdb
+D:\shiju\CloudDemo\AzureStorage\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+D:\shiju\CloudDemo\AzureStorage\obj\Debug\ResolveAssemblyReference.cache
+D:\shiju\CloudDemo\AzureStorage\obj\Debug\AzureStorage.dll
+D:\shiju\CloudDemo\AzureStorage\obj\Debug\AzureStorage.pdb
+D:\shiju\AzureHack\AzureStorage\bin\Debug\AzureStorage.dll
+D:\shiju\AzureHack\AzureStorage\bin\Debug\AzureStorage.pdb
+D:\shiju\AzureHack\AzureStorage\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+D:\shiju\AzureHack\AzureStorage\obj\Debug\ResolveAssemblyReference.cache
+D:\shiju\AzureHack\AzureStorage\obj\Debug\AzureStorage.dll
+D:\shiju\AzureHack\AzureStorage\obj\Debug\AzureStorage.pdb
